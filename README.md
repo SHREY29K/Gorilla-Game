@@ -1,5 +1,5 @@
 Gorilla Game
-This is a simple HTML5 game called "Gorilla Game" where players can engage in a battle launching bombs at each other using gorillas as avatars. The game offers different modes including single-player, two-player, and autoplay.
+This is a simple Js game called "Gorilla Game" where players can engage in a battle launching bombs at each other using gorillas as avatars. The game offers different modes including single-player, two-player, and autoplay.
 
 Table of Contents
 Introduction
